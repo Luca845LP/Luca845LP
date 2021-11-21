@@ -1,2 +1,1 @@
-# Hi, ich bin Luca. Ein junger Lua Dev aus Österreich!
-## https://discord.gg/qbwUg5G
+# Hi, ich bin Luca. Ein junger JS Dev aus Österreich!
